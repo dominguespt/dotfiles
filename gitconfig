@@ -48,6 +48,6 @@
   mergeoptions = --no-edit
 [user]
 	email = dominguesfluis@gmail.com
-	name = Luis Domingues
+	name = Luis
 [credential]
 	helper = cache --timeout=600
